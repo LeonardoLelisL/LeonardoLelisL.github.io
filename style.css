@@ -1,0 +1,25 @@
+
+body {
+background-color: #becadaff;
+}
+
+.meu-nome, .descricao {
+font-family:'Alkatra', cursive;
+}
+
+strong {
+color: blue;
+}
+
+.html {
+font-size: 22px;
+}
+
+.css {
+font-size: 20px;
+}
+
+.javascript {
+font-size: 18px;
+}
+
