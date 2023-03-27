@@ -1,0 +1,48 @@
+
+body {
+background-color: #becadaff;
+}
+
+.meu-nome, .descricao {
+font-family:'Alkatra', cursive;
+}
+
+strong {
+color: blue;
+}
+
+.html {
+font-size: 22px;
+}
+
+.css {
+font-size: 20px;
+}
+
+.javascript {
+font-size: 18px;
+}
+
+#minha-foto {
+    float: left;
+    height: 470px;
+    padding: 15px;
+    background-color: rgb(0, 0, 43);
+}
+
+.descricao{
+    position: absolute;
+    left: 400px;
+}
+
+.image-container {
+    height: 500px;
+}
+
+.meu-nome {
+    text-align: center;
+}
+
+ul li:nth-last-child(odd) {
+    list-style-type: circle;
+}
